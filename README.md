@@ -12,7 +12,9 @@
 
 ## About
 
-I trained as a geographer at the University of Ilorin and spent my early career mapping floods, farms and public infrastructure across Nigeria, first as a GIS analyst and later as a geospatial software engineer. That work moved into full stack engineering at Flutterwave, where I designed enterprise payment integrations, and then to the London School of Economics for an MSc in Management of Information Systems and Digital Innovation, where I worked on machine learning for satellite imagery and flood risk.
+I trained as a geographer at the University of Ilorin, where I graduated as the best student in my department, and spent the years that followed building geospatial systems in Nigeria. At Lorex Geospatial I led a GIS services team whose proposals and models qualified the company for a $2 million Central Bank GIS project in Taraba State. With the GeoHazards Risk Mapping Initiative I modelled flood risk from Sentinel, Landsat and MODIS imagery and trained more than a hundred local officials in geospatial tools for disaster management, and as Head of Research and Innovation I have since led flood risk mapping across more than thirty communities in Nigeria and Ghana.
+
+I then moved into software engineering, first at Flutterwave, where I built an end-to-end payment solution and a simulation engine for rapid prototyping, and then as Software Engineering Lead at Leapstart Lab, guiding a team of twelve engineers on cloud-native products for ESG-focused clients. I completed an MSc in Management of Information Systems and Digital Innovation at the London School of Economics with Distinction on a full scholarship, and stayed on as an AI Research Engineer on the Sociocope project, studying how frontier language models represent, compress or displace plural knowledge systems. Alongside that work I produced AI ecosystem and digital public infrastructure assessments across Africa and Latin America for the United Nations Development Programme.
 
 Running through all of my work is one question, whether a model and the data it learns from actually agree about the world, and how uncertain we should be when they do not.
 
@@ -38,8 +40,9 @@ Fieldwork and data collection take place with partners in Ecuador, Peru, Ghana, 
 ## Awards and recognition
 
 - **Most Practical Project**, MSc Management of Information Systems and Digital Innovation, London School of Economics
-- **Winner, Luminance Challenge**, Hack_the_Law Cambridge 2025, with [Risk IQ](https://hackthelaw-cambridge.com/hackathon-2025/), a contract risk platform that tracks regulatory and economic events and scores their impact on individual contract clauses
-- **Winner, Phelan US Centre AI Essay Competition 2025** at LSE, for [*AI in the US: The Next Space Race or the Next Subprime Crisis?*](https://blogs.lse.ac.uk/usappblog/2025/03/17/ai-in-the-us-the-next-space-race-or-the-next-subprime-crisis/), which I later presented to members of the UK Parliament
+- **Winner, Luminance Legal-Grade AI Challenge**, Hack the Law, Cambridge Judge Business School, June 2025, as software engineer and AI architect on [Risk IQ](https://hackthelaw-cambridge.com/hackathon-2025/), a contract risk platform that tracks regulatory and economic events and scores their impact on individual contract clauses
+- **Winner, Phelan US Centre Master's Essay Competition on AI**, LSE, March 2025, for [*AI in the US: The Next Space Race or the Next Subprime Crisis?*](https://blogs.lse.ac.uk/usappblog/2025/03/17/ai-in-the-us-the-next-space-race-or-the-next-subprime-crisis/)
+- **Vice Chancellor's Award for Best Graduating Student**, Department of Geography, University of Ilorin, 2019
 
 ## Selected work
 
@@ -56,6 +59,8 @@ Fieldwork and data collection take place with partners in Ecuador, Peru, Ghana, 
 
 - **Community-Sensed Flood Warning**, tutorial for the Tackling Climate Change with Machine Learning workshop at NeurIPS 2026, using a geospatial foundation model as the prior and residents as the posterior ([notebook](https://github.com/Adeniyikayodee/NeurIPS-2026-Workshop))
 - **Mapping floods where there is no ground truth**, London Geo Meetup #5 at Birkbeck, 12 August 2026 ([code](https://github.com/Adeniyikayodee/LondonGeoMeetUp))
+- **Responsible and auditable AI in public services**, invited presentation to the British-American Parliamentary Group at the Palace of Westminster, April 2025
+- **Managing AI adoption in organisations**, invited speaker at the LUMS and DiSH workshop in Manchester, May 2025
 
 ## Writing
 
