@@ -20,7 +20,6 @@ Model-data alignment, uncertainty quantification and sensing for global water sy
 
 - AI Research Engineer, London School of Economics
 - AI landscape assessments across Africa, UNDP
-- Software Engineering Lead, Leapstart Lab
 - Software Engineer, Flutterwave
 - Geospatial Engineer, Lorex Geospatial
 - MSc (Distinction), LSE · BSc Geography, University of Ilorin
