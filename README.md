@@ -59,8 +59,8 @@ Fieldwork and data collection take place with partners in Ecuador, Peru, Ghana, 
 
 - **Community-Sensed Flood Warning**, tutorial for the Tackling Climate Change with Machine Learning workshop at NeurIPS 2026, using a geospatial foundation model as the prior and residents as the posterior ([notebook](https://github.com/Adeniyikayodee/NeurIPS-2026-Workshop))
 - **Mapping floods where there is no ground truth**, London Geo Meetup #5 at Birkbeck, 12 August 2026 ([code](https://github.com/Adeniyikayodee/LondonGeoMeetUp))
-- **Responsible and auditable AI in public services**, invited presentation to the British-American Parliamentary Group at the Palace of Westminster, April 2025
 - **Managing AI adoption in organisations**, invited speaker at the LUMS and DiSH workshop in Manchester, May 2025
+- **Responsible and auditable AI in public services**, invited presentation to the British-American Parliamentary Group at the Palace of Westminster, April 2025
 
 ## Writing
 
