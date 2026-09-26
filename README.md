@@ -1,6 +1,8 @@
 # Kayode Adeniyi
 
-**PhD researcher in Engineering at Imperial College London** working on uncertainty quantification and model-data alignment for global water systems, bringing sensors, citizen observations and machine learning together where the ground truth is thin, missing or quietly wrong.
+**AI Research Engineer · PhD Researcher in Engineering, Imperial College London**
+
+Model-data alignment, uncertainty quantification and sensing for global water systems
 
 [![Email](https://img.shields.io/badge/Email-adeniyikayode22%40gmail.com-1f2937?style=flat-square&logo=gmail&logoColor=white)](mailto:adeniyikayode22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kadeniyi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadeniyi)
@@ -8,95 +10,67 @@
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-author-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/news/author/mkbadeniyi/)
 [![LogRocket](https://img.shields.io/badge/LogRocket-author-764ABC?style=flat-square)](https://blog.logrocket.com/author/kayodeadeniyi/)
 
----
+## Now
 
-## About
+- PhD on [*Unlocking local knowledge production for global water reanalysis*](https://www.imperial.ac.uk/news/articles/engineering/civil-engineering/2026/bridging-water-data-gaps-new-project-unites-global-scientists-and-local-communities/), part of Schmidt Sciences' [VIEW](https://www.schmidtsciences.org/view/), supervised by Professor Wouter Buytaert
+- Sensors, uncertainty and machine learning for bringing local and citizen data into global water models
+- Head of Research and Innovation, GeoHazards Risk Mapping Initiative
 
-I trained as a geographer at the University of Ilorin, where I graduated as the best student in my department, and spent the years that followed building geospatial systems in Nigeria. At Lorex Geospatial I led a GIS services team whose proposals and models qualified the company for a $2 million Central Bank GIS project in Taraba State. With the GeoHazards Risk Mapping Initiative I modelled flood risk from Sentinel, Landsat and MODIS imagery and trained more than a hundred local officials in geospatial tools for disaster management, and as Head of Research and Innovation I have since led flood risk mapping across more than thirty communities in Nigeria and Ghana.
+## Previously
 
-I then moved into software engineering, first at Flutterwave, where I built an end-to-end payment solution and a simulation engine for rapid prototyping, and then as Software Engineering Lead at Leapstart Lab, guiding a team of twelve engineers on cloud-native products for ESG-focused clients. I completed an MSc in Management of Information Systems and Digital Innovation at the London School of Economics with Distinction on a full scholarship, and stayed on as an AI Research Engineer on the Sociocope project, studying how frontier language models represent, compress or displace plural knowledge systems. Alongside that work I produced AI ecosystem and digital public infrastructure assessments across Africa for the United Nations Development Programme.
-
-Running through all of my work is one question, whether a model and the data it learns from actually agree about the world, and how uncertain we should be when they do not.
-
-## Doctoral research
-
-My PhD sits within [*Unlocking local knowledge production for global water reanalysis*](https://www.imperial.ac.uk/news/articles/engineering/civil-engineering/2026/bridging-water-data-gaps-new-project-unites-global-scientists-and-local-communities/), which is one of four projects in the [Virtual Institute for Earth's Water](https://www.schmidtsciences.org/view/) (VIEW) funded by Schmidt Sciences, and is led by my supervisor, Professor Wouter Buytaert, at Imperial College London and Dr Seifu Tilahun at the International Water Management Institute. VIEW is building a first-generation reanalysis of the global freshwater system, and our part of it asks how volunteer monitoring, citizen observations and local knowledge can enter global water models as data those models can genuinely use.
-
-I work on that question from three directions that depend on one another:
-
-- **Sensors.** Using machine learning to guide the design and placement of low-cost sensors, so that each new measurement of river stage, discharge, groundwater, soil moisture or abstraction goes where it reduces model uncertainty the most
-- **Uncertainty.** Quantifying what a single sensor reading or citizen report is worth to a model, and carrying that uncertainty through to the reanalysis instead of discarding it at the point of integration
-- **Machine learning.** Building knowledge integration workflows on semantic data models, so that heterogeneous local records can be aligned with what a global model expects and the gaps that matter most for local action can be identified and prioritised
-
-Fieldwork and data collection take place with partners in Ecuador, Peru, Ghana, Ethiopia, Laos and India.
+- AI Research Engineer, London School of Economics
+- AI landscape assessments across Africa, UNDP
+- Software Engineering Lead, Leapstart Lab
+- Software Engineer, Flutterwave
+- Geospatial Engineer, Lorex Geospatial
+- MSc (Distinction), LSE · BSc Geography, University of Ilorin
 
 ## Research interests
 
-- **Model-data alignment as a source of uncertainty.** A model can only be as certain as its agreement with the data allows, so I study where that agreement breaks, through target leakage, hidden provenance and benchmarks whose shortcuts survive repair, and how to quantify the uncertainty those gaps leave behind
-- **Uncertainty quantification under absent ground truth**, including how much evidence a single human observation adds to a spatial decision when no validation set exists
-- **Reliability of AI agents** that call scientific tools, where units, vertical datums and record quality are silently dropped at the tool boundary
-- **Sensing and machine learning for water**, from sensor design and placement to community-sensed flood warning
-
-## Awards and recognition
-
-- **Most Practical Project**, MSc Management of Information Systems and Digital Innovation, London School of Economics
-- **Winner, Luminance Legal-Grade AI Challenge**, Hack the Law, Cambridge Judge Business School, June 2025, as software engineer and AI architect on [Risk IQ](https://hackthelaw-cambridge.com/hackathon-2025/), a contract risk platform that tracks regulatory and economic events and scores their impact on individual contract clauses
-- **Winner, Phelan US Centre Master's Essay Competition on AI**, LSE, March 2025, for [*AI in the US: The Next Space Race or the Next Subprime Crisis?*](https://blogs.lse.ac.uk/usappblog/2025/03/17/ai-in-the-us-the-next-space-race-or-the-next-subprime-crisis/)
-- **Vice Chancellor's Award for Best Graduating Student**, Department of Geography, University of Ilorin, 2019
+- Model-data alignment as a source of uncertainty
+- Uncertainty quantification without ground truth
+- Reliability of AI agents that call scientific tools
+- Sensing and machine learning for water
 
 ## Selected work
 
-| Project | What it does |
-| --- | --- |
-| [**quantity-guard**](https://github.com/Adeniyikayodee/quantity-guard) | Enforces units, vertical datums, timezones and record quality at an AI agent's tool boundary. In a benchmark of 4,288 runs across eleven models, every model that reached the tool passed cubic feet per second into a cubic metres parameter without converting it, and nothing in the output revealed the error. |
-| [**gagelink**](https://github.com/Adeniyikayodee/gagelink) | An MCP server that gives agents hydrology data from USGS, NOAA, Hub'Eau, the UK Environment Agency and SWOT, with every value carrying its unit, datum and provenance. Available on PyPI. |
-| [**leakage-benchmarks**](https://github.com/Adeniyikayodee/leakage-benchmarks) | Code for the paper *Removing Data Leakage Does Not Fix Benchmarks*, which shows that when shortcut pathways are redundant, repairing one leak leaves the metric unchanged and the benchmark no more informative than before. |
-| [**derives-from**](https://github.com/Adeniyikayodee/dependency_manifest) | A dependency manifest for public statistical data, with a linter that rejects covariates your prediction target was built from. Archived on [Zenodo](https://doi.org/10.5281/zenodo.22274757). |
-| [**Reliability-Caps**](https://github.com/Adeniyikayodee/Reliability-Caps) | Measures how much evidence one resident's report carries about whether a zone of a settlement is in hazard, given a partition learned from satellite representations. |
-| [**fathom**](https://github.com/Adeniyikayodee/fathom) | Parametric flood insurance that settles on resident reports for dense settlements in Lagos where a satellite trigger cannot see the water. |
+- [**quantity-guard**](https://github.com/Adeniyikayodee/quantity-guard): units, datums and record quality enforced at the AI agent tool boundary
+- [**gagelink**](https://github.com/Adeniyikayodee/gagelink): MCP server for hydrology data from USGS, NOAA, Hub'Eau, the Environment Agency and SWOT
+- [**leakage-benchmarks**](https://github.com/Adeniyikayodee/leakage-benchmarks): code for *Removing Data Leakage Does Not Fix Benchmarks*
+- [**derives-from**](https://github.com/Adeniyikayodee/dependency_manifest): dependency manifest and leakage linter for public data
+- [**Reliability-Caps**](https://github.com/Adeniyikayodee/Reliability-Caps): the value of one human observation to a spatial decision
+- [**fathom**](https://github.com/Adeniyikayodee/fathom): parametric flood insurance settled on resident reports
 
-## Talks and tutorials
+## Awards
 
-- **Community-Sensed Flood Warning**, tutorial for the Tackling Climate Change with Machine Learning workshop at NeurIPS 2026, using a geospatial foundation model as the prior and residents as the posterior ([notebook](https://github.com/Adeniyikayodee/NeurIPS-2026-Workshop))
-- **Mapping floods where there is no ground truth**, London Geo Meetup #5 at Birkbeck, 12 August 2026 ([code](https://github.com/Adeniyikayodee/LondonGeoMeetUp))
-- **Managing AI adoption in organisations**, invited speaker at the LUMS and DiSH workshop in Manchester, May 2025
-- **Responsible and auditable AI in public services**, invited presentation to the British-American Parliamentary Group at the Palace of Westminster, April 2025
+- Most Practical Project, LSE MSc Management of Information Systems and Digital Innovation
+- Winner, Luminance Legal-Grade AI Challenge, [Hack the Law](https://hackthelaw-cambridge.com/hackathon-2025/) Cambridge 2025
+- Winner, [Phelan US Centre AI Essay Competition](https://blogs.lse.ac.uk/usappblog/2025/03/17/ai-in-the-us-the-next-space-race-or-the-next-subprime-crisis/) 2025
+- Vice Chancellor's Award, University of Ilorin 2019
+
+## Talks
+
+- NeurIPS 2026, Tackling Climate Change with Machine Learning ([notebook](https://github.com/Adeniyikayodee/NeurIPS-2026-Workshop))
+- London Geo Meetup #5, Birkbeck 2026 ([code](https://github.com/Adeniyikayodee/LondonGeoMeetUp))
+- LUMS and DiSH workshop, Manchester 2025
+- British-American Parliamentary Group, Westminster 2025
 
 ## Writing
 
-I have written for freeCodeCamp since 2022, mostly on machine learning, data and infrastructure. At LogRocket I write about product management, with a recent focus on AI risk, compliance and how teams should run AI products.
+- [Detecting hidden target leakage in public datasets](https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/) · freeCodeCamp
+- [Managing context files for AI coding agents](https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/) · freeCodeCamp
+- [Stress-testing AI products: a red-teaming playbook](https://blog.logrocket.com/product-management/stress-testing-ai-products-red-teaming-playbook/) · LogRocket
+- [Adding a harm score to product prioritization](https://blog.logrocket.com/product-management/harm-score-product-prioritization/) · LogRocket
 
-**freeCodeCamp**
-
-- [How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph](https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/)
-- [How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents](https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/)
-- [How Feature Flags and Role-Based Access Control Can Help Secure Your DevOps Process](https://www.freecodecamp.org/news/feature-flags-and-role-based-access-control-devops/)
-- [How to Implement Infrastructure as Code with AWS](https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/)
-
-**LogRocket**
-
-- [How to add a harm score to product prioritization](https://blog.logrocket.com/product-management/harm-score-product-prioritization/)
-- [Stress-testing AI products: A red-teaming playbook](https://blog.logrocket.com/product-management/stress-testing-ai-products-red-teaming-playbook/)
-- [AI compliance: A core product competency you shouldn't skip](https://blog.logrocket.com/product-management/ai-compliance-core-product-competency-you-shouldnt-skip/)
-- [How to run your AI products like a portfolio, not a project](https://blog.logrocket.com/product-management/how-to-run-your-ai-products-portfolio-not-project/)
-- [Why you should treat data as inventory, not infrastructure](https://blog.logrocket.com/product-management/treat-data-inventory-not-infrastructure/)
-
-The full lists are on my [freeCodeCamp](https://www.freecodecamp.org/news/author/mkbadeniyi/) and [LogRocket](https://blog.logrocket.com/author/kayodeadeniyi/) author pages.
-
-## Tools I work with
+## Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![Earth Engine](https://img.shields.io/badge/Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
----
-
-If you work on uncertainty, data quality in machine learning or water risk and think we should talk, I would be glad to hear from you at [adeniyikayode22@gmail.com](mailto:adeniyikayode22@gmail.com).
