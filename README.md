@@ -22,22 +22,6 @@ Model-data alignment, uncertainty quantification and sensing for global water sy
 - Software Engineer, Flutterwave
 - Geospatial Engineer, Lorex Geospatial
 
-## Research interests
-
-- Model-data alignment as a source of uncertainty
-- Uncertainty quantification without ground truth
-- Reliability of AI agents that call scientific tools
-- Sensing and machine learning for water
-
-## Selected work
-
-- [**quantity-guard**](https://github.com/Adeniyikayodee/quantity-guard): units, datums and record quality enforced at the AI agent tool boundary
-- [**gagelink**](https://github.com/Adeniyikayodee/gagelink): MCP server for hydrology data from USGS, NOAA, Hub'Eau, the Environment Agency and SWOT
-- [**leakage-benchmarks**](https://github.com/Adeniyikayodee/leakage-benchmarks): code for *Removing Data Leakage Does Not Fix Benchmarks*
-- [**derives-from**](https://github.com/Adeniyikayodee/dependency_manifest): dependency manifest and leakage linter for public data
-- [**Reliability-Caps**](https://github.com/Adeniyikayodee/Reliability-Caps): the value of one human observation to a spatial decision
-- [**fathom**](https://github.com/Adeniyikayodee/fathom): parametric flood insurance settled on resident reports
-
 ## Writing
 
 - [Detecting hidden target leakage in public datasets](https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/) · freeCodeCamp
