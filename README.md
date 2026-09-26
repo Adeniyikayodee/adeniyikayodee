@@ -21,7 +21,6 @@ Model-data alignment, uncertainty quantification and sensing for global water sy
 - AI landscape assessments across Africa, UNDP
 - Software Engineer, Flutterwave
 - Geospatial Engineer, Lorex Geospatial
-- MSc (Distinction), LSE · BSc Geography, University of Ilorin
 
 ## Research interests
 
