@@ -18,7 +18,7 @@ Running through all of my work is one question, whether a model and the data it 
 
 ## Doctoral research
 
-My PhD sits within [*Unlocking local knowledge production for global water reanalysis*](https://www.imperial.ac.uk/news/articles/engineering/civil-engineering/2026/bridging-water-data-gaps-new-project-unites-global-scientists-and-local-communities/), one of four projects in the [Virtual Institute for Earth's Water](https://www.schmidtsciences.org/view/) (VIEW) funded by Schmidt Sciences, and is led by Wouter Buytaert at Imperial College London and Seifu Tilahun at the International Water Management Institute. VIEW is building a first-generation reanalysis of the global freshwater system, and our part of it asks how volunteer monitoring, citizen observations and local knowledge can enter global water models as data those models can genuinely use.
+My PhD sits within [*Unlocking local knowledge production for global water reanalysis*](https://www.imperial.ac.uk/news/articles/engineering/civil-engineering/2026/bridging-water-data-gaps-new-project-unites-global-scientists-and-local-communities/), which is one of four projects in the [Virtual Institute for Earth's Water](https://www.schmidtsciences.org/view/) (VIEW) funded by Schmidt Sciences, and is led by Wouter Buytaert at Imperial College London and Seifu Tilahun at the International Water Management Institute. VIEW is building a first-generation reanalysis of the global freshwater system, and our part of it asks how volunteer monitoring, citizen observations and local knowledge can enter global water models as data those models can genuinely use.
 
 I work on that question from three directions that depend on one another:
 
