@@ -1,6 +1,6 @@
 # Kayode Adeniyi
 
-**PhD researcher in Engineering at Imperial College London** working on model-data alignment and uncertainty quantification in machine learning, with water risk as the setting where the ground truth is thin, missing or quietly wrong.
+**PhD researcher in Engineering at Imperial College London** working on uncertainty quantification and model-data alignment for global water systems, bringing sensors, citizen observations and machine learning together where the ground truth is thin, missing or quietly wrong.
 
 [![Email](https://img.shields.io/badge/Email-adeniyikayode22%40gmail.com-1f2937?style=flat-square&logo=gmail&logoColor=white)](mailto:adeniyikayode22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kadeniyi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadeniyi)
@@ -14,14 +14,26 @@
 
 I trained as a geographer at the University of Ilorin and spent my early career mapping floods, farms and public infrastructure across Nigeria, first as a GIS analyst and later as a geospatial software engineer. That work moved into full stack engineering at Flutterwave, where I designed enterprise payment integrations, and then to the London School of Economics for an MSc in Management of Information Systems and Digital Innovation, where I worked on machine learning for satellite imagery and flood risk.
 
-My doctoral research asks how machine learning can inform the design of hardware sensors for measuring global water risk, so that we know how much fresh water remains and where it is. Running through all of it is a question I care about more than any single application, which is whether a model and the data it was trained and tested on actually agree about the world.
+Running through all of my work is one question, whether a model and the data it learns from actually agree about the world, and how uncertain we should be when they do not.
+
+## Doctoral research
+
+My PhD sits within [*Unlocking local knowledge production for global water reanalysis*](https://www.imperial.ac.uk/news/articles/engineering/civil-engineering/2026/bridging-water-data-gaps-new-project-unites-global-scientists-and-local-communities/), one of four projects in the [Virtual Institute for Earth's Water](https://www.schmidtsciences.org/view/) (VIEW) funded by Schmidt Sciences, and is led by Wouter Buytaert at Imperial College London and Seifu Tilahun at the International Water Management Institute. VIEW is building a first-generation reanalysis of the global freshwater system, and our part of it asks how volunteer monitoring, citizen observations and local knowledge can enter global water models as data those models can genuinely use.
+
+I work on that question from three directions that depend on one another:
+
+- **Sensors.** Using machine learning to guide the design and placement of low-cost sensors, so that each new measurement of river stage, discharge, groundwater, soil moisture or abstraction goes where it reduces model uncertainty the most
+- **Uncertainty.** Quantifying what a single sensor reading or citizen report is worth to a model, and carrying that uncertainty through to the reanalysis instead of discarding it at the point of integration
+- **Machine learning.** Building knowledge integration workflows on semantic data models, so that heterogeneous local records can be aligned with what a global model expects and the gaps that matter most for local action can be identified and prioritised
+
+Fieldwork and data collection take place with partners in Ecuador, Peru, Ghana, Ethiopia, Laos and India.
 
 ## Research interests
 
 - **Model-data alignment as a source of uncertainty.** A model can only be as certain as its agreement with the data allows, so I study where that agreement breaks, through target leakage, hidden provenance and benchmarks whose shortcuts survive repair, and how to quantify the uncertainty those gaps leave behind
 - **Uncertainty quantification under absent ground truth**, including how much evidence a single human observation adds to a spatial decision when no validation set exists
 - **Reliability of AI agents** that call scientific tools, where units, vertical datums and record quality are silently dropped at the tool boundary
-- **Machine learning for water risk**, from sensor design to community-sensed flood warning
+- **Sensing and machine learning for water**, from sensor design and placement to community-sensed flood warning
 
 ## Awards and recognition
 
