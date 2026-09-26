@@ -14,7 +14,6 @@ Model-data alignment, uncertainty quantification and sensing for global water sy
 
 - PhD on [*Unlocking local knowledge production for global water reanalysis*](https://www.imperial.ac.uk/news/articles/engineering/civil-engineering/2026/bridging-water-data-gaps-new-project-unites-global-scientists-and-local-communities/), part of Schmidt Sciences' [VIEW](https://www.schmidtsciences.org/view/), supervised by Professor Wouter Buytaert
 - Sensors, uncertainty and machine learning for bringing local and citizen data into global water models
-- Head of Research and Innovation, GeoHazards Risk Mapping Initiative
 
 ## Previously
 
@@ -39,20 +38,6 @@ Model-data alignment, uncertainty quantification and sensing for global water sy
 - [**derives-from**](https://github.com/Adeniyikayodee/dependency_manifest): dependency manifest and leakage linter for public data
 - [**Reliability-Caps**](https://github.com/Adeniyikayodee/Reliability-Caps): the value of one human observation to a spatial decision
 - [**fathom**](https://github.com/Adeniyikayodee/fathom): parametric flood insurance settled on resident reports
-
-## Awards
-
-- Most Practical Project, LSE MSc Management of Information Systems and Digital Innovation
-- Winner, Luminance Legal-Grade AI Challenge, [Hack the Law](https://hackthelaw-cambridge.com/hackathon-2025/) Cambridge 2025
-- Winner, [Phelan US Centre AI Essay Competition](https://blogs.lse.ac.uk/usappblog/2025/03/17/ai-in-the-us-the-next-space-race-or-the-next-subprime-crisis/) 2025
-- Vice Chancellor's Award, University of Ilorin 2019
-
-## Talks
-
-- NeurIPS 2026, Tackling Climate Change with Machine Learning ([notebook](https://github.com/Adeniyikayodee/NeurIPS-2026-Workshop))
-- London Geo Meetup #5, Birkbeck 2026 ([code](https://github.com/Adeniyikayodee/LondonGeoMeetUp))
-- LUMS and DiSH workshop, Manchester 2025
-- British-American Parliamentary Group, Westminster 2025
 
 ## Writing
 
