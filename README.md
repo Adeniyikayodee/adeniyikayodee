@@ -28,8 +28,6 @@ My doctoral research asks how machine learning can inform the design of hardware
 - **Most Practical Project**, MSc Management of Information Systems and Digital Innovation, London School of Economics
 - **Winner, Luminance Challenge**, Hack_the_Law Cambridge 2025, with [Risk IQ](https://hackthelaw-cambridge.com/hackathon-2025/), a contract risk platform that tracks regulatory and economic events and scores their impact on individual contract clauses
 - **Winner, Phelan US Centre AI Essay Competition 2025** at LSE, for [*AI in the US: The Next Space Race or the Next Subprime Crisis?*](https://blogs.lse.ac.uk/usappblog/2025/03/17/ai-in-the-us-the-next-space-race-or-the-next-subprime-crisis/), which I later presented to members of the UK Parliament
-- **Fully funded PhD** in Engineering at Imperial College London
-- **freeCodeCamp top open source contributor** in 2022 and 2025
 
 ## Selected work
 
@@ -49,7 +47,7 @@ My doctoral research asks how machine learning can inform the design of hardware
 
 ## Writing
 
-I have written for freeCodeCamp since 2022 and was named one of its top open source contributors in both 2022 and 2025. At LogRocket I write about product management, with a recent focus on AI risk, compliance and how teams should run AI products.
+I have written for freeCodeCamp since 2022, mostly on machine learning, data and infrastructure. At LogRocket I write about product management, with a recent focus on AI risk, compliance and how teams should run AI products.
 
 **freeCodeCamp**
 
