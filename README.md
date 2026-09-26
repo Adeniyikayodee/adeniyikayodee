@@ -10,18 +10,6 @@ Model-data alignment, uncertainty quantification and sensing for global water sy
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-author-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/news/author/mkbadeniyi/)
 [![LogRocket](https://img.shields.io/badge/LogRocket-author-764ABC?style=flat-square)](https://blog.logrocket.com/author/kayodeadeniyi/)
 
-## Now
-
-- PhD on [*Unlocking local knowledge production for global water reanalysis*](https://www.imperial.ac.uk/news/articles/engineering/civil-engineering/2026/bridging-water-data-gaps-new-project-unites-global-scientists-and-local-communities/), part of Schmidt Sciences' [VIEW](https://www.schmidtsciences.org/view/), supervised by Professor Wouter Buytaert
-- Sensors, uncertainty and machine learning for bringing local and citizen data into global water models
-
-## Previously
-
-- AI Research Engineer, London School of Economics
-- AI landscape assessments across Africa, UNDP
-- Software Engineer, Flutterwave
-- Geospatial Engineer, Lorex Geospatial
-
 ## Writing
 
 - [Detecting hidden target leakage in public datasets](https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/) · freeCodeCamp
