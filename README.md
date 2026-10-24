@@ -3,8 +3,7 @@
 PhD Engineering researcher, [Imperial College London](https://www.imperial.ac.uk/) (Shawki Saad Scholar),
 on the VIEW project, funded by [Schmidt Sciences](https://www.schmidtsciences.org/).
 
-**Uncertainty quantification for Edge AI.** How far can a measurement be trusted,
-and what is it worth to a decision?
+**Focus: Uncertainty quantification for Edge AI. Put simply; how far can a measurement be trusted, and what is it worth to a decision?**
 
 More and more environmental sensing happens on small devices, where sensors and TinyML models
 make predictions on the spot. My research measures how far each of those predictions can be trusted.
