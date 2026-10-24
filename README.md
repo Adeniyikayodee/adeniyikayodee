@@ -10,11 +10,12 @@ make predictions on the spot. My research measures how far each of those predict
 The people who rely on them shape that work: their experience decides how uncertainty is measured
 and which mistakes matter most.
 
-**Technology & Society.** This way of working is inspired by my kind supervisor
+**My approach to science: Technology & Society.** This way of working is inspired by my kind supervisor
 [Wouter Buytaert](https://www.imperial.ac.uk/people/w.buytaert)'s expertise in socio-hydrology,
-which studies water and people as one system, and by
+which studies water and people as one system, by
 the ever-inspiring [James Manyika](https://en.wikipedia.org/wiki/James_Manyika), whose career path led to his leadership
-of Research, Labs, Technology & Society at Google.
+of Research, Labs, Technology & Society at Google, and by
+[Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis), the whiz kid doing the unusual!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kadeniyi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadeniyi)
 [![X](https://img.shields.io/badge/X-@mkbadeniyi-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mkbadeniyi)
