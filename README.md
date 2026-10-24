@@ -28,7 +28,7 @@ This way of working is inspired by:
   leadership of Research, Labs, Technology & Society at Google;
 - [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis), the whiz kid doing the unusual!
 - [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming), of blessed memory, whose
-  [*You and Your Research*](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) asks why we
+  talk *You and Your Research* asks why we
   don't work on the important problems.
 
 ## Software
