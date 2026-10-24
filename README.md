@@ -27,3 +27,5 @@ of Research, Labs, Technology & Society at Google.
 - [ng-flood](https://github.com/Adeniyikayodee/ng-flood): Google flood forecasts for any point in Nigeria, by postcode area.
 - [ng-postcode](https://github.com/Adeniyikayodee/ng-postcode): Nigeria's NIPOST digital postcode in Rust, Python, JavaScript, Java and PostgreSQL.
 - [WazoCore](https://github.com/Adeniyikayodee/wazocore): Yoruba, Hausa and Igbo in a third fewer tokens ([model on Hugging Face](https://huggingface.co/mkbadeniyi/WazoCore-8B-v6-long)).
+
+Open to collaboration on research and on building solutions that address important needs.
