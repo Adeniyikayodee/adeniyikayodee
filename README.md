@@ -9,25 +9,21 @@ on the VIEW project, funded by [Schmidt Sciences](https://www.schmidtsciences.or
 [![LogRocket](https://img.shields.io/badge/LogRocket-articles-764ABC?style=flat-square)](https://blog.logrocket.com/author/kayodeadeniyi/)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-tutorials-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/news/author/mkbadeniyi/)
 
-## My approach to science: Technology & Society
-
-This way of working is inspired by:
-
-- my kind supervisor [Wouter Buytaert](https://www.imperial.ac.uk/people/w.buytaert), whose expertise in
-  socio-hydrology studies water and people as one system;
-- the ever-inspiring [James Manyika](https://en.wikipedia.org/wiki/James_Manyika), whose career path led to his
-  leadership of Research, Labs, Technology & Society at Google;
-- [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis), the whiz kid doing the unusual!
-- [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming), of blessed memory, whose
-  talk *You and Your Research* asks why we
-  don't work on the important problems.
-
 ## Software
 
 - [ng-flood](https://github.com/Adeniyikayodee/ng-flood): Google flood forecasts for any point in Nigeria, by postcode area.
 - [ng-postcode](https://github.com/Adeniyikayodee/ng-postcode): Nigeria's NIPOST digital postcode in Rust, Python, JavaScript, Java and PostgreSQL.
 - [WazoCore](https://github.com/Adeniyikayodee/wazocore): Yoruba, Hausa and Igbo in a third fewer tokens ([model on Hugging Face](https://huggingface.co/mkbadeniyi/WazoCore-8B-v6-long)).
 
+## My approach to science: Technology & Society
+
+This way of working is inspired by:
+
+- my kind supervisor [Wouter Buytaert](https://www.imperial.ac.uk/people/w.buytaert), whose expertise in socio-hydrology studies water and people as one system;
+- the ever-inspiring [James Manyika](https://en.wikipedia.org/wiki/James_Manyika), whose career path led to his leadership of Research and Labs at Google;
+- [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis), for doing the unusual;
+- [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming), of blessed memory, whose talk *You and Your Research* asks why we don't work on the important problems.
+
 ## Let's work together
 
-Open to collaboration on research and on building solutions that address important needs.
+Open to collaboration on research and software.
