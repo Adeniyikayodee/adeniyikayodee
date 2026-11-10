@@ -9,15 +9,6 @@ on the VIEW project, funded by [Schmidt Sciences](https://www.schmidtsciences.or
 [![LogRocket](https://img.shields.io/badge/LogRocket-articles-764ABC?style=flat-square)](https://blog.logrocket.com/author/kayodeadeniyi/)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-tutorials-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/news/author/mkbadeniyi/)
 
-## Research
-
-**Focus: Uncertainty quantification for Edge AI. Put simply; how far can a measurement be trusted, and what is it worth to a decision?**
-
-A growing share of environmental sensing now happens on small devices, where sensors and TinyML models
-make predictions on the spot. My research measures how far each of those predictions can be trusted.
-The people who rely on them shape that work: their experience decides how uncertainty is measured
-and which mistakes matter most.
-
 ## My approach to science: Technology & Society
 
 This way of working is inspired by:
